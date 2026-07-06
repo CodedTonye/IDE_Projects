@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fce9674-402f-4990-bccb-ccaf15735145" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FE4gQjCxcqIv9GRp3as08gvCZf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractFactory.executor": "Run",
+    "Application.ArraySort.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AccountTest.executor": "Run",
+    "JUnit.AccountTest.withdraw200_balanceIs300Test.executor": "Debug",
+    "JUnit.AirConditionerTest.executor": "Run",
+    "JUnit.AirConditionerTest.increaseTemperatureBeyond30_TemperatureRemain30Test.executor": "Run",
+    "JUnit.ArrayListTest.addElementToArray_arrayIsNotEmptyTest.executor": "Run",
+    "JUnit.ArrayListTest.addElementToArray_arrayListIsNotEmptyTest.executor": "Run",
+    "JUnit.ArrayListTest.addElement_removeElement_arrayListIsEmptyTest.executor": "Run",
+    "JUnit.ArrayListTest.addMultipleElementsToArray_ArrayReturnsTheNumberOfElementsTest.executor": "Run",
+    "JUnit.ArrayListTest.arrayContainsSpecificElementTest.executor": "Run",
+    "JUnit.ArrayListTest.arrayListIsEmptyTest.executor": "Coverage",
+    "JUnit.ArrayListTest.executor": "Run",
+    "JUnit.ArrayListTest.getElementAtASpecifiedPositionTest.executor": "Run",
+    "JUnit.ArrayListTest.returnAllElementsInArrayTest.executor": "Run",
+    "JUnit.ArrayListTest.returnTheNumberOfElementsInArrayTest.executor": "Run",
+    "JUnit.ArrayListTest.testAddTwoElements_returnTwoElements.executor": "Run",
+    "JUnit.ArrayListTest.testThatArrayExpandsWhenItIsFull.executor": "Run",
+    "JUnit.ArraySortTest.executor": "Run",
+    "JUnit.ArraySortTest.testThatNewArrayReturnsTwoElementsWithTheMaxSum.executor": "Run",
+    "JUnit.AutomaticBikeTest.executor": "Run",
+    "JUnit.GeoPoliticalZoneFinderTest.executor": "Coverage",
+    "JUnit.LinearRegressionTest.executor": "Run",
+    "JUnit.LinearRegressionTest.fitsALineWithAnInterceptTest.executor": "Run",
+    "JUnit.LinearRegressionTest.fitsAPerfectLineThroughTheOriginTest.executor": "Run",
+    "JUnit.LinearRegressionTest.predictsYForANewXTest.executor": "Run",
+    "JUnit.LinearRegressionTest.throwsExceptionWhenArraysAreEmptyTest.executor": "Run",
+    "JUnit.LinkedListTest.executor": "Coverage",
+    "JUnit.MapTest.executor": "Coverage",
+    "JUnit.MapTest.mapIsEmptyTest.executor": "Run",
+    "JUnit.ObjectsRelationshipTest.executor": "Coverage",
+    "JUnit.ProblemTrackerTest.executor": "Run",
+    "JUnit.QueueTest.add3Strings_returnHeadOfQueue_removeOneString_returnHeadOfQueueTest.executor": "Run",
+    "JUnit.QueueTest.executor": "Run",
+    "JUnit.QueueTest.poll2Strings_return2String_queueIsEmptyTest.executor": "Run",
+    "JUnit.QueueTest.pollString_returnStringTest.executor": "Run",
+    "JUnit.QueueTest.removeStringFromEmptyQueue_throwErrorTest.executor": "Run",
+    "JUnit.QueueTest.removeString_returnStringTest.executor": "Run",
+    "JUnit.SetTest.addElementToSet_removeElementInSet_setIsEmptyTest.executor": "Run",
+    "JUnit.SetTest.addElementToSet_setIsNotEmptyTest.executor": "Run",
+    "JUnit.SetTest.createEmptySet_setIsEmptyTest.executor": "Run",
+    "JUnit.SetTest.executor": "Run",
+    "JUnit.StackTest.addElementToEmptyStack_stackIsNotEmptyTest.executor": "Run",
+    "JUnit.StackTest.executor": "Coverage",
+    "JUnit.StackTest.push2_pop1_stackIsNotEmptyTest.executor": "Run",
+    "JUnit.StackTest.push2_pop3_throwsExceptionTest.executor": "Run",
+    "JUnit.StackTest.pushXY_popX_stackIsNotEmptyTest.executor": "Run",
+    "JUnit.StackTest.pushX_popX_stackIsEmptyTest.executor": "Run",
+    "JUnit.StackTest.stackIsEmptyTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/gamp/Desktop/IDE_Projects/IdeaProjects/cohortThirty",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="stackCollection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountTest">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohortThirty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bankAccount" />
+      <option name="MAIN_CLASS_NAME" value="bankAccount.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeoPoliticalZoneFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohortThirty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="geoPoliticalZoning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="geoPoliticalZoning" />
+      <option name="MAIN_CLASS_NAME" value="geoPoliticalZoning.GeoPoliticalZoneFinderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohortThirty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mapCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mapCollection" />
+      <option name="MAIN_CLASS_NAME" value="mapCollection.MapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectsRelationshipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohortThirty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectsRelationship.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objectsRelationship" />
+      <option name="MAIN_CLASS_NAME" value="objectsRelationship.ObjectsRelationshipTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemTrackerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohortThirty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problemSolving" />
+      <option name="MAIN_CLASS_NAME" value="problemSolving.ProblemTrackerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ObjectsRelationshipTest" />
+        <item itemvalue="JUnit.GeoPoliticalZoneFinderTest" />
+        <item itemvalue="JUnit.ProblemTrackerTest" />
+        <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="JUnit.MapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fce9674-402f-4990-bccb-ccaf15735145" name="Changes" comment="" />
+      <created>1781629209024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781629209024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cohortThirty$LinkedListTest.ic" NAME="LinkedListTest Coverage Results" MODIFIED="1782311212249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>linkedListCollection.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cohortThirty$ProblemTrackerTest.ic" NAME="ProblemTrackerTest Coverage Results" MODIFIED="1782677647847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>problemSolving.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cohortThirty$ArrayListTest.ic" NAME="ArrayListTest Coverage Results" MODIFIED="1782355184159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>arrayListCollection.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cohortThirty$GeoPoliticalZoneFinderTest.ic" NAME="GeoPoliticalZoneFinderTest Coverage Results" MODIFIED="1782679501182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>geoPoliticalZoning.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cohortThirty$AccountTest.ic" NAME="AccountTest Coverage Results" MODIFIED="1782454464859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>bankAccount.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cohortThirty$MapTest.ic" NAME="MapTest Coverage Results" MODIFIED="1782364838200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>mapCollection.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cohortThirty$StackTest.ic" NAME="StackTest Coverage Results" MODIFIED="1782311349246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>stackCollection.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cohortThirty$ArrayListTest_arrayListIsEmptyTest.ic" NAME="ArrayListTest.arrayListIsEmptyTest Coverage Results" MODIFIED="1782316852647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>arrayListCollection.*</FILTER>
+    </SUITE>
+  </component>
+</project>
